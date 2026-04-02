@@ -206,5 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-
-horse-or-human/
+semester6\FashionMNIST\
+semester6\data\
+semester6\gan\
+semester6\lab7\
+semester7\horse-or-human\
+*.docx
